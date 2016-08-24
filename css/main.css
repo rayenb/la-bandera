@@ -1,0 +1,12 @@
+/* Escribe tu css aqui */
+div {
+	height: 100px;
+	width: 150px;
+	display: inline;
+}
+.yellow {
+	background-color: yellow;
+}
+.red {
+	background-color: red;
+}
